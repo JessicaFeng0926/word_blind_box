@@ -1,0 +1,8 @@
+python 蟒蛇,left 左,right 右,turtle 海龟,forward 前进,pen 画笔,color 颜色,size 大小,up 上,down 下,dot 点点,random 随机,import 导入,mode 模式,fill 填充
+white 白色,orange 橙色,light 浅,slate 石板,blue 蓝色,randint 随机整数,yellow 黄色,gray 灰色,magenta 紫红色,logo 徽标,shape 形状,done 完成,write 写,set 设置,aqua 湖绿色
+begin 开始,end 结束,circle 圆圈,for 对于,in 在...里面,range 范围,if 如果,elif 否则如果(非英语单词),else 否则,input 输入,true 真,false 假,or 或者,and 并且,"not 非,不"
+square 正方形,from 从,date 日期,time 时间,now 现在,hour 小时,minute 分钟,second 秒钟,clear 清除,tracer 轨迹,update 更新,global 全局的,key 按键,press 按压,space 空格
+release 释放，松开,listen 听,return 返回,list 列表,screen 屏幕,click 点击,get 获得,canvas 画布,width 宽,height 高,bind 绑定,motion 移动(名词),move 移动(动词),head 头,eye 眼睛
+print 打印,choice 选择(名词),max 最大,min 最小,"uniform 统一的,校服",str 字符串(简写),int 整数(简写),float 浮点数,"append 添加,追加",init 初始化(简写),display 展示，显示,image 图像,load 加载,blit 投放,event 事件
+type 类型,quit 退出，放弃,exit 退出,tick 钟表滴答,font 字体,render 渲染,while 当...的时候,break 打破,continue 继续,key 键,value 值,item 项目，一则,transform 使改变，使转换,smooth 平滑的,scale 规模
+shuffle 平滑的,,,,,,,,,,,,,,
