@@ -9,7 +9,9 @@ def homepage(screen,font,clock):
     
 
     while True:
+        clock.tick(30)
         screen.fill((255,255,255))
+        
         register_btn.draw()
         login_btn.draw()
         

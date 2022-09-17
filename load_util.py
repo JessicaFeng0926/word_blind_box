@@ -15,6 +15,7 @@ def load_font(font_name,size):
     return font 
 
 def load_sound(sound_name,volume=1.0):
+    '''根据音频文件名字和指定的音量加载并返回音频对象'''
     sound = pygame.mixer.Sound(os.path.join(AUDIO_PATH,sound_name))
     sound.set_volume(volume)
     return sound
